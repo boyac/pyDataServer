@@ -2,4 +2,5 @@
 Banking tools developed in Python
 
 #### ORCL_CONN.py 
-- Accessing to Oracle DB, able to run Big Oracle query & download schema.
+- Avoiding Oracle Toad Out of Memory error 
+- Accessing to Oracle DB, to run Big Oracle query & download schema with much better performance
