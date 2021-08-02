@@ -1,4 +1,4 @@
-# BankingTools
+# pyData
 ## Content 
 - use python 2.7
 - accessing Oracle database server (relational database), run Big Oracle query & download schema seamlessly 
