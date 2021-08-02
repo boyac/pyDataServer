@@ -2,8 +2,7 @@
 ## Content 
 - use python 2.7
 - avoiding Oracle Toad Out of Memory error 
-- accessing Oracle DB, run Big Oracle query & download schema with much better performance
-
+- accessing Oracle DB, run Big Oracle query & download schema seamlessly 
 ## Your Support
 - You can contribute to the project by reporting bugs, suggesting enhancements, exchanging portfolio management experiences or
 you can make a donation to this project:
