@@ -1,6 +1,4 @@
 # BankingTools
-Banking tools developed in Python
-
 ## Content 
 - use python 2.7
 - avoiding Oracle Toad Out of Memory error 
